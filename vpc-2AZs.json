@@ -10,7 +10,7 @@
                 "Tags": [
                     {
                         "Key": "Name",
-                        "Value": "Lab VPC"
+                        "Value": "VPC-Management"
                     }
                 ]
             }
@@ -21,7 +21,7 @@
                 "Tags": [
                     {
                         "Key": "Name",
-                        "Value": "Lab Internet Gateway"
+                        "Value": "Management Internet Gateway"
                     }
                 ]
             }
